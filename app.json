@@ -13,7 +13,7 @@
          },
          "Footer": {
             "description": "Enter your bot's watermark (Eg:- Anya Bot)",
-            "required": false
+            "required": true
          },
          "Prefix": {
             "description": "Enter a prefix for single prefix mode (Eg:- !, -, /, etc...)",
@@ -53,7 +53,7 @@
          },
          "Warn_Limits": {
             "description": "Enter user's warns limit",
-            "required": false
+            "required": true
          },
          "Cooldown_Timer_Seconds": {
              "description": "Enter Command cooldown timer in seconds",
